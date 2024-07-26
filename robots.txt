@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ervialed.github.io/sitemap.html.gz
+Sitemap: https://ervialed.github.io/app/sitemap.html.gz
+Sitemap: https://ervialed.github.io/assets/sitemap.html.gz
+Sitemap: https://ervialed.github.io/css/sitemap.html.gz
+Sitemap: https://ervialed.github.io/includes/sitemap.html.gz
+Sitemap: https://ervialed.github.io/item/sitemap.html.gz
+Sitemap: https://ervialed.github.io/src/sitemap.html.gz
